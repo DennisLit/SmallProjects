@@ -1,0 +1,13 @@
+C:\Users\Denni\Desktop\Twitch chat bot\bin\Debug\netcoreapp2.1\Twitch chat bot.deps.json
+C:\Users\Denni\Desktop\Twitch chat bot\bin\Debug\netcoreapp2.1\Twitch chat bot.runtimeconfig.json
+C:\Users\Denni\Desktop\Twitch chat bot\bin\Debug\netcoreapp2.1\Twitch chat bot.runtimeconfig.dev.json
+C:\Users\Denni\Desktop\Twitch chat bot\bin\Debug\netcoreapp2.1\Twitch chat bot.dll
+C:\Users\Denni\Desktop\Twitch chat bot\obj\Debug\netcoreapp2.1\Twitch chat bot.csprojAssemblyReference.cache
+C:\Users\Denni\Desktop\Twitch chat bot\obj\Debug\netcoreapp2.1\Twitch chat bot.csproj.CoreCompileInputs.cache
+C:\Users\Denni\Desktop\Twitch chat bot\obj\Debug\netcoreapp2.1\Twitch chat bot.AssemblyInfoInputs.cache
+C:\Users\Denni\Desktop\Twitch chat bot\obj\Debug\netcoreapp2.1\Twitch chat bot.AssemblyInfo.cs
+C:\Users\Denni\Desktop\Twitch chat bot\bin\Debug\netcoreapp2.1\Twitch chat bot.pdb
+C:\Users\Denni\Desktop\Twitch chat bot\obj\Debug\netcoreapp2.1\Twitch chat bot.dll
+C:\Users\Denni\Desktop\Twitch chat bot\obj\Debug\netcoreapp2.1\Twitch chat bot.pdb
+C:\Users\Denni\Desktop\Twitch chat bot\obj\Debug\netcoreapp2.1\Twitch_chat_bot.Resources.Keys.resources
+C:\Users\Denni\Desktop\Twitch chat bot\obj\Debug\netcoreapp2.1\Twitch chat bot.csproj.GenerateResource.cache

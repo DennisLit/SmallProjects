@@ -1,0 +1,13 @@
+C:\Users\Denni\Desktop\StudyTime\bin\Release\netcoreapp2.1\StudyTime.deps.json
+C:\Users\Denni\Desktop\StudyTime\bin\Release\netcoreapp2.1\StudyTime.runtimeconfig.json
+C:\Users\Denni\Desktop\StudyTime\bin\Release\netcoreapp2.1\StudyTime.runtimeconfig.dev.json
+C:\Users\Denni\Desktop\StudyTime\bin\Release\netcoreapp2.1\StudyTime.dll
+C:\Users\Denni\Desktop\StudyTime\bin\Release\netcoreapp2.1\StudyTime.pdb
+C:\Users\Denni\Desktop\StudyTime\obj\Release\netcoreapp2.1\StudyTime.csprojAssemblyReference.cache
+C:\Users\Denni\Desktop\StudyTime\obj\Release\netcoreapp2.1\StudyTime.ApiConstants.resources
+C:\Users\Denni\Desktop\StudyTime\obj\Release\netcoreapp2.1\StudyTime.csproj.GenerateResource.cache
+C:\Users\Denni\Desktop\StudyTime\obj\Release\netcoreapp2.1\StudyTime.csproj.CoreCompileInputs.cache
+C:\Users\Denni\Desktop\StudyTime\obj\Release\netcoreapp2.1\StudyTime.AssemblyInfoInputs.cache
+C:\Users\Denni\Desktop\StudyTime\obj\Release\netcoreapp2.1\StudyTime.AssemblyInfo.cs
+C:\Users\Denni\Desktop\StudyTime\obj\Release\netcoreapp2.1\StudyTime.dll
+C:\Users\Denni\Desktop\StudyTime\obj\Release\netcoreapp2.1\StudyTime.pdb
